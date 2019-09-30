@@ -8,6 +8,7 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
 
+	<!--A-->
     <groupId>com.cslc</groupId>
     <artifactId>eurekaserver</artifactId>
     <packaging>jar</packaging>
